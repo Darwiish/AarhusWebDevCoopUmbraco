@@ -1,0 +1,22 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage<ContentModels.ProjectsOverview>
+@using ContentModels = Umbraco.Web.PublishedContentModels;
+@{
+	Layout = "Master.cshtml";
+}
+
+<h1>@Model.ProjectsTitle</h1>
+<hr/>
+    @Model.ProjectsBodyText
+
+
+<ul>
+    @foreach (var projects in Model.Children)
+    {
+        <li>
+            <h4>@projects.GetPropertyValue("projectsTitle")</h4>
+            <br />
+             @projects.GetPropertyValue("projectsBodyText")
+        </li>
+    }
+
+</ul>
