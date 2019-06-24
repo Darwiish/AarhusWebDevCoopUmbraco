@@ -330,7 +330,6 @@ C:\Users\abdir\Desktop\AarhusWebDevCoopUmbraco\AarhusWebDevCoo\AarhusWebDevCoo\b
 C:\Users\abdir\Desktop\AarhusWebDevCoopUmbraco\AarhusWebDevCoo\AarhusWebDevCoo\bin\Umbraco.Web.UI.xml
 C:\Users\abdir\Desktop\AarhusWebDevCoopUmbraco\AarhusWebDevCoo\AarhusWebDevCoo\bin\UmbracoExamine.xml
 C:\Users\abdir\Desktop\AarhusWebDevCoopUmbraco\AarhusWebDevCoo\AarhusWebDevCoo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\abdir\Desktop\AarhusWebDevCoopUmbraco\AarhusWebDevCoo\AarhusWebDevCoo\obj\Debug\AarhusWebDevCoo.csprojAssemblyReference.cache
 C:\Users\abdir\Desktop\AarhusWebDevCoopUmbraco\AarhusWebDevCoo\AarhusWebDevCoo\obj\Debug\AarhusWebDevCoo.csproj.CoreCompileInputs.cache
 C:\Users\abdir\Desktop\AarhusWebDevCoopUmbraco\AarhusWebDevCoo\AarhusWebDevCoo\obj\Debug\AarhusWebDevCoo.csproj.CopyComplete
 C:\Users\abdir\Desktop\AarhusWebDevCoopUmbraco\AarhusWebDevCoo\AarhusWebDevCoo\obj\Debug\AarhusWebDevCoo.dll
