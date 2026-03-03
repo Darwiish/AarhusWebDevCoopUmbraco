@@ -1,27 +1,5 @@
 "# AarhusWebDevCoopUmbraco" 
 
-Mandatory Assignment 1 – Development Environment
-
-Table of Contents
-
-Introduction
-
-Sitemap
-
-Website Menu
-
-Website Access Control
-
-Users
-
-Members
-
-Contact Form
-
-Conclusion
-
-Appendix
-
 Introduction
 
 This project is the first mandatory assignment for the Development Environment course. The goal was to create a web application using:
@@ -43,7 +21,7 @@ A functional web application
 Documentation of development processes
 
 GitHub repository with full source code
-
+---
 Sitemap
 
 A Partial View was created to generate a sitemap.
